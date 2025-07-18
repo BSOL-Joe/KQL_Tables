@@ -1,4 +1,4 @@
-TimeGenerated,UserPrincipalName,AppDisplayName,ResultType,ResultDescription,IPAddress,Location,DeviceDetail
+﻿TimeGenerated,UserPrincipalName,AppDisplayName,ResultType,ResultDescription,IPAddress,Location,DeviceDetail
 2025-06-01T01:18:00,patty.perez@contoso.com,Microsoft Teams,50055,"Invalid password, entered expired password.",66.249.64.1,"New York, USA","{""DisplayName"": ""device-new-29"", ""IsCompliant"": false, ""IsManaged"": false, ""OperatingSystem"": ""Linux"", ""Browser"": ""Unknown""}"
 2025-06-01T01:32:00,dylan.miller@contoso.com,OneDrive,50074,Strong Authentication is required.,86.23.123.45,"London, UK","{""DisplayName"": ""device-lon-35"", ""IsCompliant"": false, ""IsManaged"": false, ""OperatingSystem"": ""Linux"", ""Browser"": ""Unknown""}"
 2025-06-01T01:49:00,allison.hill@contoso.com,Azure Portal,50055,"Invalid password, entered expired password.",78.137.97.10,"Dublin, IE","{""DisplayName"": ""device-dub-1"", ""IsCompliant"": false, ""IsManaged"": false, ""OperatingSystem"": ""Linux"", ""Browser"": ""Unknown""}"
